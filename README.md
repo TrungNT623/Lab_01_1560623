@@ -13,8 +13,7 @@
 
 - Link facebook : https://www.facebook.com/profile.php?id=100006469466384
 
-## HỌC KỲ 2 , NĂM HỌC 2017 - 2018
-
+## HỌC KỲ 2 
 | Giờ BĐ - Giờ KT | Tiết | Thứ 2 | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7 |
 
 |-----------------|------|-------|-------|-------|-------|-------|-------|
